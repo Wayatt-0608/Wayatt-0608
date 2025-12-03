@@ -1,22 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ho Dang Quang</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h1 align="center">Hi 👋, I'm Phan Quoc Lam</h1>
+<h3 align="center">A passionate Back-End Developer</h3>
 
 ---
 
 ### 🚀 About me:
 - 🧑‍🎓 I'm a student at FPT University
-- 🌱 I’m currently learning **React, NodeJS**
-- 💬 Ask me about **HTML, CSS, JS, React**
+- 🌱 I’m currently learning **C Sharp**
 
 ---
 
 ### 📫 How to reach me:
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/>https://www.facebook.com/quoc.lam.281413</a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>https://github.com/Wayatt-0608</a>
 </p>
+
 
 ---
 
