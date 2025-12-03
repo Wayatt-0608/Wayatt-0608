@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About me:
-- 🧑‍🎓 I'm a student at FPT University
+- ✍ I'm a student of: [FPT University of Ho Chi Minh](https://daihoc.fpt.edu.vn/) (FPT).
 - 🌱 I’m currently learning **C Sharp**
 
 ---
@@ -30,8 +30,19 @@
 
 ### 🛠 Skills:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode"/>
+  <!-- NetBeans (dùng SVG ngoài vì skillicons không hỗ trợ) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="48"/>
+
+  <!-- GitHub -->
+  <img src="https://skillicons.dev/icons?i=github"/>
+
+  <!-- MySQL -->
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+
+  <!-- VS Code -->
+  <img src="https://skillicons.dev/icons?i=vscode"/>
 </p>
+
 
 ---
 
