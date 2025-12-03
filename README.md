@@ -11,9 +11,19 @@
 
 ### 📫 How to reach me:
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/>https://www.facebook.com/quoc.lam.281413</a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>https://github.com/Wayatt-0608</a>
+  <a href="https://www.facebook.com/quoc.lam.281413" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="mailto:phanquoclam682004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Wayatt-0608" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  </a>
 </p>
+
 
 
 ---
